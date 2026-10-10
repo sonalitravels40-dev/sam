@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS READER X</string>
+    <string name="notification_channel_monitoring">SMS Monitoring Service</string>
+    <string name="notification_channel_monitoring_desc">Notifies when SMS payment monitoring is actively running.</string>
+    <string name="notification_channel_alerts">Payment Alerts</string>
+    <string name="notification_channel_alerts_desc">Alerts for newly detected payment transactions requiring review.</string>
+</resources>
+

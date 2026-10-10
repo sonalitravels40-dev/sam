@@ -1,0 +1,7 @@
+{
+  "name": "SMS READER X",
+  "description": "Authorized merchant payment transaction SMS reader with manual review, HTTPS reconciliation, and secure local audit storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
